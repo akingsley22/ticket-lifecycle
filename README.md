@@ -27,25 +27,46 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+  ![image](https://github.com/akingsley22/ticket-lifecycle/assets/138138839/f7aa62ed-9565-43a5-995f-0bc5f06b0fd2)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+-In the step above, I created a ticket on behalf of the customer. In this demonstration we will designate severity levels to these tickets and assign them to Agents.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+  ![image](https://github.com/akingsley22/ticket-lifecycle/assets/138138839/76c74124-f039-46db-b10d-8658fd645045)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+-Observe tickets appear in your queue based on what permissions you have as an agent. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![image](https://github.com/akingsley22/ticket-lifecycle/assets/138138839/07d6ee0d-ef77-43d1-aaac-c165c6980f12)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+-To designate a priority level to a ticket, click the ticket -> click on priority -> designate a priority level and add a note if you wish.
 </p>
+
+![image](https://github.com/akingsley22/ticket-lifecycle/assets/138138839/4b94a347-2061-4fac-8625-fd301262f8da)
+
+</p>
+<p>
+-To assign a ticket to an agent, click on the ticket -> click on "Unassigned" -> select an assignee and add a note if you wish.
+</p>
+
+![image](https://github.com/akingsley22/ticket-lifecycle/assets/138138839/e9a9651c-74b3-4dc6-bcdc-8b3fa09f6e89)
+
+</p>
+<p>
+-To assign an SLA plan to a ticket, click on the ticket -> click on "Default SLA" -> select SLA Plan and add a note if you wish
+</p>
+
 <br />
