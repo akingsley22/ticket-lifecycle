@@ -69,4 +69,20 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 -To assign an SLA plan to a ticket, click on the ticket -> click on "Default SLA" -> select SLA Plan and add a note if you wish
 </p>
 
+![image](https://github.com/akingsley22/ticket-lifecycle/assets/138138839/a7265167-f4fa-47b7-ab66-0a601d16d53d)
+
+-From the image above, we are able to see communication between departments on a ticket and the ticket resolution.
+
+</p>
+<p>
+  -In this demonstration, we have been able to:
+
+    -Receive Tickets
+    -Designate the priority level
+    -Assign the ticket to an agent
+    -Assign an SLA to the ticket
+    -Resolve the ticket
+    
+</p>
+
 <br />
